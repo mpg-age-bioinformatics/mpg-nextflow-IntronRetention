@@ -1,1 +1,1 @@
-# mpg-nextflow-IntronRetention
+# nextflow-IntronRetention
